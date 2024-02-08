@@ -9,6 +9,6 @@ type Address struct {
 	Detail   string `json:"detail"`
 }
 
-func AddressAnalyse() *Address {
+func AddressParse() *Address {
 	return nil
 }
