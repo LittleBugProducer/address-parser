@@ -1,4 +1,4 @@
-package address_parser
+package addressparser
 
 type Address struct {
 	Name     string `json:"name"`
